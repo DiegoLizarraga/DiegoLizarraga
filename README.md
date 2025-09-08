@@ -9,8 +9,9 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/user-attachments/assets/5ce2c8e7-2ca2-4b12-a686-1a73a7735836" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/user-attachments/assets/aa37a606-2f9c-4013-8a84-598c8b4d0572" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
+
 
 ```
 -------------------------
@@ -96,5 +97,16 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DiegoLizarraga&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLizarraga&langs_count=8&theme=algolia&layout=compact) |
 
 ------
+
+![tenor](https://github.com/user-attachments/assets/9cd93ec4-c8f3-4c0f-8c5e-77590aed5537)
+
+
+<h3> Connect with me:</h3>
+<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/diegolizarragasanchez/"><img alt="LinkedIn" title="My LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://github.com/DiegoLizarraga"><img alt="GitHub" title="My GitHub" src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+
+---
+
+
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
 Last Edited On: 18/04/2022
