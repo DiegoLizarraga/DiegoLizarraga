@@ -1,7 +1,6 @@
 <h1 align="center">
 Hi, I'm Diego Lizarraga
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
 
 <!-- Typing SVG by ![wp7684195](https://github.com/user-attachments/assets/5ce2c8e7-2ca2-4b12-a686-1a73a7735836)
@@ -82,6 +81,8 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+![200](https://github.com/user-attachments/assets/8de0e7c9-d19e-42b4-a310-a4ee6b47f047)
 
 
 ## GitHub Stats
