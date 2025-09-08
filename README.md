@@ -87,9 +87,8 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 ## GitHub Stats
 |                                                                     Diego's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Diego's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=DiegoLizarraga&theme=react-dark&hide_border=true&area=true) |
 | ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=DiegoLizarraga&show_icons=true&theme=algolia)              | 
-| ![Diego's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoLizarraga&theme=algolia)                    | 
+                  
     
 |                                                                                                      Diego's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
