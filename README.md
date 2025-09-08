@@ -36,8 +36,6 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <hr>
 
 
-## 🛠️ My Favorite Tools
-
 ### 👨‍💻 Programming Languages
 
 <p>
