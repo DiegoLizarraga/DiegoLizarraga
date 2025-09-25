@@ -84,10 +84,6 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 
 ## GitHub Stats
-|                                                                     Diego's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=DiegoLizarraga&show_icons=true&theme=algolia)              | 
-                  
     
 |                                                                                                      Diego's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
@@ -95,7 +91,7 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 ------
 
-![tenor (1)](https://github.com/user-attachments/assets/89fa033a-a5da-4d64-be73-de9f94ce4775)
+
 
 
 
