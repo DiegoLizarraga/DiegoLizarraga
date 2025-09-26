@@ -24,7 +24,7 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 🌱I'm learning about artificial intelligence, machine learning, and data science.
 
-🌟Primary languages: C, C#, C++, Python, JavaScript, HTML, CSS.
+🌟Primary languages: C++, Python, JavaScript.
 
 🚩I'm interested in developing full-stack machine learning applications.
 
