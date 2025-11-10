@@ -154,7 +154,7 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://www.linkedin.com/in/diegolizarragasanchez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/DiegoLizarraga" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
 <a href="https://app.aluracursos.com/user/lizarragasanchezdiego" target="_blank"><img alt="Alura Latam" src="https://img.shields.io/badge/Alura%20Latam-051933?logo=alura&logoColor=white"></a>
-<a href="[https://devpost.com/lizarragasanchezdiego](https://devpost.com/lizarragasanchezdiego/achievements)" target="_blank"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-00366D?logo=devpost&logoColor=white"></a>
+<a href="https://devpost.com/lizarragasanchezdiego/achievements" target="_blank"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-00366D?logo=devpost&logoColor=white"></a>
 
 
 ---
