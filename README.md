@@ -13,24 +13,25 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 
 ```
--------------------------
-💻I'm a full-stack developer with interests in databases, cybersecurity, and cloud services.
+----------------------------------------------------------------------------------------------------------------------------
+💻I'm a full-stack developer with an interest in databases, cybersecurity, and cloud services.
 
-📚I have a degree in Computer Science from the Monterrey Institute of Technology (ITESM).
+📚I have a Bachelor's degree in Computer Science from the Monterrey Institute of Technology and Higher Education (ITESM).
 
-📝 I'm interested in software and database development.
+📝I'm interested in software and database development.
 
-🔭I work on web pages, desktop applications, and geospatial maps.
+🔭I work on websites, desktop applications, and geospatial maps.
 
 🌱I'm learning about artificial intelligence, machine learning, and data science.
 
-🌟Primary languages: C++, Python, JavaScript.
+🌟My main programming languages ​​are C++, Python, and JavaScript.
 
 🚩I'm interested in developing full-stack machine learning applications.
 
-💖I have a complex relationship with java ​​and hackathons.
+💖I have a complex relationship with Java and hackathons.
 
-💽I love grindfiction and technology.
+💽I'm passionate about technology and software.
+-----------------------------------------------------------------------------------------------------------------------------
 ```
 <hr>
 
@@ -89,6 +90,7 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   <a href="#"><img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff"></a>
   <a href="#"><img alt="Miro" src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff"></a>
+  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"></a>
   <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"></a>
   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"></a>
 </p>
@@ -99,7 +101,8 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     
  
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#) 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) 
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=white"></a>
 </p>
 
 ### 📊 Data Science
@@ -111,6 +114,13 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"></a>
 </p>
 
+### 💻operating systems
+<p>
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white"></a>
+<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white"></a>
+<a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white"></a>
+<a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white"></a>
+</p>
 
 ### 🎓 Education
 
@@ -124,7 +134,8 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 
 
-![200](https://github.com/user-attachments/assets/8de0e7c9-d19e-42b4-a310-a4ee6b47f047)
+
+
 
 
 ## GitHub Stats
@@ -140,8 +151,11 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 
 <h3> Connect with me:</h3>
-<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/diegolizarragasanchez/"><img alt="LinkedIn" title="My LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://github.com/DiegoLizarraga"><img alt="GitHub" title="My GitHub" src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+<a href="https://www.linkedin.com/in/diegolizarragasanchez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/DiegoLizarraga" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
+<a href="https://cursos.alura.com.br/user/tucu10" target="_blank"><img alt="Alura Latam" src="https://img.shields.io/badge/Alura%20Latam-051933?logo=alura&logoColor=white"></a>
+<a href="https://devpost.com/lizarragasanchezdiego" target="_blank"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-00366D?logo=devpost&logoColor=white"></a>
+
 
 ---
 
