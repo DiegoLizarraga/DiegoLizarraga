@@ -28,7 +28,7 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 🚩I'm interested in developing full-stack machine learning applications.
 
-💖I have a complex relationship with Java and hackathons.
+💖I have a complex relationship with hackathons.
 
 💽I'm passionate about technology and software.
 -----------------------------------------------------------------------------------------------------------------------------
