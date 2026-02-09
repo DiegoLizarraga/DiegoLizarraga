@@ -1,39 +1,11 @@
-<h1 align="center">
-Hi, I'm Diego Lizarraga
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br/>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DiegoLizarraga?cardType=github&theme=city-lights&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!-- Typing SVG by ![wp7684195](https://github.com/user-attachments/assets/5ce2c8e7-2ca2-4b12-a686-1a73a7735836)
 DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
 
 
 
-
-```
-----------------------------------------------------------------------------------------------------------------------------
-💻I'm a full-stack developer with an interest in databases, cybersecurity, and cloud services.
-
-📚I have a Bachelor's degree in Computer Science from the Monterrey Institute of Technology and Higher Education (ITESM).
-
-📝I'm interested in software and database development.
-
-🔭I work on websites, desktop applications, and geospatial maps.
-
-🌱I'm learning about artificial intelligence, machine learning, and data science.
-
-🌟My main programming languages ​​are C++, Python, and JavaScript.
-
-🚩I'm interested in developing full-stack machine learning applications.
-
-💖I have a complex relationship with hackathons.
-
-💽I'm passionate about technology and software.
------------------------------------------------------------------------------------------------------------------------------
-```
-<hr>
 
 ### 👨‍💻 Programming Languages ​​
 <p>  
@@ -144,8 +116,3 @@ DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://devpost.com/lizarragasanchezdiego/achievements" target="_blank"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-00366D?logo=devpost&logoColor=white"></a>
 
 
----
-
-
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
