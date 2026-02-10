@@ -1,8 +1,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DiegoLizarraga?cardType=github&theme=city-lights&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<!-- Typing SVG by ![wp7684195](https://github.com/user-attachments/assets/5ce2c8e7-2ca2-4b12-a686-1a73a7735836)
-DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!--![wp7684195](https://github.com/user-attachments/assets/5ce2c8e7-2ca2-4b12-a686-1a73a7735836)-->
 
 
 
